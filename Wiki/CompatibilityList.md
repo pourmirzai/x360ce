@@ -142,6 +142,7 @@ This is the new system utilised by r574+
   1. FIFA 12
   1. FIFA 13
   1. FIFA 15 (uses xinput9_1_0.dll) (32bit and 64bit executables, always uses 64bit on 64bit OS)
+  1. FIFA 18 (uses xinput1_4.dll)
   1. Final Exam
   1. FlatOut Ultimate Carnage
   1. Godmode (uses xinput9_1_0.dll)
